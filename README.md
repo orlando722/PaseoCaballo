@@ -1,5 +1,5 @@
-# PaseoCaballo
-Pase del Caballo
+# Paseo o recorrido del caballo
+The MIT License (MIT)
 
 Sencillo ejemplo, no optimizado, el cual la pieza llamada caballo recorre todo el tablero hasta completar el mismo. El recorrido que se realiza es de circuito abierto.
 
